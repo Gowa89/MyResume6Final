@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    h1 { 
+        olor: blue;
+        font-family: arial, helvetica, "sans serif";
+        font-size: 150%;
+      }
+    <style>
+
+        p {
+            font-size: 60px;
+              }
+     </style>
+     <style>
+
+            
+         </style> 
+    <title></title>
+  </head>
+  h2{
+     border-style: dashed;
+  border-width: 3px;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-color: red;
+  border-radius: 10px 20px 30px 40px
+  }
+  <title>CSS Example</title>
+<style>
+
+    p {
+        color: red;
+    }
+
+    a {
+        color: blue;
+    }
+
+</style>
+  <body> 
+    <p> I am a very big font! </p>
+
+    <p style=”font-size: 10px;”> I am very small font</p>
+    <p style="color:red">
+Let’s learn CSS!
+</p>
+  </body>
+  body {
+    font-size: 14px;
+    color: navy;
+}
+</html>
